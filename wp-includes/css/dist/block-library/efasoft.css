@@ -323,12 +323,11 @@
 }
 /*  FIN FECTO Sombras en las cajas de Servicios. */
 
-/* EFECTO - SOY DANIELA*/
+/* EFECTO - Bienvenido a mi Web - Soy Maria Daniela Rodriguez */
 .wpb_column .vc_column_container p:hover {
-  animation: bounce;
-  animation-duration: 2s;
+
 }
-/* FIN EFECTO - SOY DANIELA*/
+/* EFECTO - Bienvenido a mi Web - Soy Maria Daniela Rodriguez */
 
 /* EFECTO - ZOOM LOGOTIPO RM INICIAL */
 .kenburns-top {
@@ -472,7 +471,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400");
 .opcion_reservar {
   position: relative;  
-  top: 22px;  
+  top: 24px;  
   left: -235px;  
   background: rgba(236, 4, 4, 1);
   box-shadow: 5px 10px 20px 0px #000000;  

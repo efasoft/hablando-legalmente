@@ -321,12 +321,20 @@
   box-shadow: 10px 25px 44px 0px #373a3d;
   transform: translate(-5px, -10px);
 }
+.wpb_column .vc_custom_1686291628592:hover {
+  box-shadow: 10px 25px 44px 0px #373a3d;
+  transform: translate(-5px, -10px);
+}
+
+
 /*  FIN FECTO Sombras en las cajas de Servicios. */
 
-/* EFECTO - Bienvenido a mi Web - Soy Maria Daniela Rodriguez */
+/* EFECTO - Bienvenido a mi Web - Soy Maria Daniela Rodriguez 
 .wpb_column .vc_column_container p:hover {
-
+  animation: bounce;
+  animation-duration: 2s;
 }
+*/
 /* EFECTO - Bienvenido a mi Web - Soy Maria Daniela Rodriguez */
 
 /* EFECTO - ZOOM LOGOTIPO RM INICIAL */
@@ -383,6 +391,11 @@
   box-shadow: 5px 10px 20px 0px #31d3b8;
   transform: translate(-5px, -10px);
 }
+.wpb_column .vc_custom_1686216546821:hover {
+  box-shadow: 5px 10px 20px 0px #31d3b8;
+  transform: translate(-5px, -10px);
+}
+
 /*  FIN - EFECTO Sombras en las cajas de .. Porque Elegirme. */
 
 /*  EFECTO Zoom en las imagenes de  .. Porque Elegirme. */
@@ -437,7 +450,7 @@
   border-radius: 30px;
   font-size: 1.05em;
   color: #fff;
-  background: rgba(236, 4, 4, 1);
+  background:#AC0000;
   box-shadow: 5px 10px 20px 0px #000000;
   visibility: hidden;
   text-transform: uppercase;
@@ -457,7 +470,7 @@
   border-radius: 30px;
   font-size: 1.05em;
   color: #fff;
-  background: rgba(236, 4, 4, 1);
+  background: #AC0000;
   box-shadow: 5px 10px 20px 0px #000000;
   visibility: visible;
   text-transform: uppercase;
@@ -470,15 +483,16 @@
 /*  EFECTO Estilos para la opcion Reservar Cita - Menu Principal */
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400");
 .opcion_reservar {
+  display: flex;  
   position: relative;  
   top: 24px;  
-  left: -235px;  
-  background: rgba(236, 4, 4, 1);
+  justify-content: right;
+  background: #AC0000;
   box-shadow: 5px 10px 20px 0px #000000;  
   border-radius: 15px;  
   width: 168px;  
   height: 30px;  
-  padding-top: 0.5%;
+  padding-top: 0.15%;
   justify-content: center;
   align-items: center;
   text-align: center;  
